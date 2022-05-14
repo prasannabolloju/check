@@ -1,0 +1,33 @@
+const Doctors=[
+    {
+        id:1,
+        title:"cardiology",
+        name:"madhusudhan",
+        image:"../images/doctor1.jpg",
+        fee:450;
+        time:1hr
+    },
+    {
+        id:2,
+        title:"neurologylogy",
+        image:"../images/doctor2.jpg",
+        name:"sidhu",
+        fee:450;
+        time:1hr
+    },{
+        id:3,
+        title:"heart",
+        image:"../images/doctor3.jpg",
+        name:"sweetie",
+        fee:450;
+        time:1hr
+    },{
+        id:4,
+        title:"cardiology",
+        image:"../images/doctor4.jpg",
+        name:"madhusudhan",
+        fee:450;
+        time:1hr
+    },
+]
+export default Doctros;
